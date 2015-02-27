@@ -39,9 +39,6 @@
                 <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="uparrow.png" translatesAutoresizingMaskIntoConstraints="NO" id="KmL-tK-aff">
                     <rect key="frame" x="85" y="119" width="244" height="244"/>
                 </imageView>
-                <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" mapType="standard" translatesAutoresizingMaskIntoConstraints="NO" id="7BC-7G-AQ9">
-                    <rect key="frame" x="8" y="425" width="398" height="176"/>
-                </mapView>
             </subviews>
             <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
             <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina55"/>
